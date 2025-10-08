@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
+}
+
+@theme{
+  --color-PrimaryColor:#111827;
+  --color-BodyText:#4B5563;
+  --color-VibrantColor:#0EA5E9;
+  --color-BorderColor:#E5E7EB;
+  --color-GrayBackground:#F8F8F8;
+}
